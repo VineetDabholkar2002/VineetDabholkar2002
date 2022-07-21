@@ -1,6 +1,6 @@
 - Hi, I’m Vineet Dabholkar 👋
-- Career Objective: To continue to be a high performer, a learner and constantly strive to value add through my role and responsibilities.
-- My Areas of Interest are Machine Learning, Deep Learning and Data Science.
+- My Career Objective: To continue to be a high performer, a learner and constantly strive to value add through my role and responsibilities.
+- My Areas of Interest: Machine Learning, Deep Learning, Data Science and Web Development.
 - I’m currently learning Full Stack, DSA, GANs and Sequence Models in Deep Learning
 - Microsoft Certifications:
   1. Azure AI Fundamentals 

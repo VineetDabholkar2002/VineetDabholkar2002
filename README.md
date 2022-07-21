@@ -10,7 +10,7 @@
  
 - 📫 How to reach me
 1. Gmail: vineetdabholkar1106@gmail.com
-2. Linkedin: <a src="https://www.linkedin.com/in/vineet-dabholkar-293a4a1a4/"> Vineet Dabholkar </a>
+2. Linkedin: <a href="https://www.linkedin.com/in/vineet-dabholkar-293a4a1a4/"> Vineet Dabholkar </a>
 
 
 <!---

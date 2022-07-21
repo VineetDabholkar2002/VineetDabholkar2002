@@ -3,10 +3,10 @@
 - My Areas of Interest are Machine Learning, Deep Learning and Data Science.
 - I’m currently learning Full Stack, DSA, GANs and Sequence Models in Deep Learning
 - Microsoft Certifications:
-- 1. Azure AI Fundamentals 
-- 2. Microsoft Azure Data Fundamentals
-- 3. MTA: Introduction to Programming Using Java
-- 4. Software Development Fundamentals (.Net using C#)
+  1. Azure AI Fundamentals 
+  2. Microsoft Azure Data Fundamentals
+  3. MTA: Introduction to Programming Using Java
+  4. Software Development Fundamentals (.Net using C#)
  
 - 📫 How to reach me
 1. Gmail: vineetdabholkar1106@gmail.com

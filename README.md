@@ -2,7 +2,7 @@
 - My Career Objective: To continue to be a high performer, a learner and constantly strive to value add through my role and responsibilities.
 - My Areas of Interest: Machine Learning, Deep Learning, Data Science and Web Development.
 - I’m currently learning Full Stack, DSA, GANs and Sequence Models in Deep Learning
-- Microsoft Certifications:
+- Microsoft Certifications done:
   1. Azure AI Fundamentals 
   2. Microsoft Azure Data Fundamentals
   3. MTA: Introduction to Programming Using Java

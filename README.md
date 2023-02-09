@@ -31,7 +31,7 @@
 
 ### Socials
 
-<p align="left"> <a href="mailto:vineetdabholkar2002@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/93699671/217727857-e7947b9f-fd5a-4b96-9c67-2f0079f55967.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vineet-dabholkar-293a4a1a4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="mailto:vineetdabholkar1106@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/93699671/217727857-e7947b9f-fd5a-4b96-9c67-2f0079f55967.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vineet-dabholkar-293a4a1a4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 

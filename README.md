@@ -35,13 +35,6 @@
 
 
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/VineetDabholkar2002/SCloud-Cloud-Storage-System-ASP.NET" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VineetDabholkar2002&repo=SCloud-Cloud-Storage-System-ASP.NET&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/VineetDabholkar2002/Customer-Churn-Predictor" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VineetDabholkar2002&repo=Customer-Churn-Predictor&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/VineetDabholkar2002/Image-Captioning-ChatBot-Plasma" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VineetDabholkar2002&repo=Image-Captioning-ChatBot-Plasma&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/VineetDabholkar2002/Library-Management-System-Using-Java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VineetDabholkar2002&repo=Library-Management-System-Using-Java&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a></div>
 <!---
 VineetDabholkar2002/VineetDabholkar2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
